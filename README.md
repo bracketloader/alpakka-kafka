@@ -64,6 +64,6 @@ You can also ask for clarifications or guidance in GitHub issues directly.
 Caveat Emptor
 -------------
 
-Alpakka components are not always binary compatible between releases. API changes that are not backward compatible might be introduced as we refine and simplify based on your feedback. A module may be dropped in any release without prior deprecation. 
+Alpakka components are not always binary compatible between releases. API changes that are not backward compatible might be introduced as we refine and simplify based on your feedback. A module may be dropped in any release without prior notice. 
 
 Support for the Alpakka Kafka connector is available via Lightbend's [Akka Platform subscription](https://www.lightbend.com/akka-platform#subscription).
